@@ -1,7 +1,7 @@
 # MA-thesis
-Packages needed so far
+Packages needed so far:
 
-sklearn.ensemble
-sklearn.metrics
-sklearn.model_selection
-pandas
+sklearn.ensemble/n
+sklearn.metrics/n
+sklearn.model_selection/n
+pandas/n
