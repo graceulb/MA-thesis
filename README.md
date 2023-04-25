@@ -7,8 +7,7 @@ pandas
 numpy   
 pdpbox    
 matplotlib   
-    
-Output is not correct so far, problems: the y_test shows as 1 element.    
+seaborn      
 
 Packages needed for the predective model using SHAP as an XAI method: 
 sklearn  
