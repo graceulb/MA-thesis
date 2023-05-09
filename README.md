@@ -5,21 +5,20 @@ sklearn
 lime     
 pandas      
 numpy   
-pdpbox    
-matplotlib   
-seaborn      
+seaborn  
+matplotlib      
 
 Packages needed for the predective model using SHAP as an XAI method: 
 sklearn  
-shap     
-pandas      
+shap  
 numpy     
+pandas          
+seaborn   
 matplotlib   
 
 Packages needed for the predective model using Anchor as an XAI method: 
 sklearn  
 shap     
-pandas      
-numpy     
+numpy           
 matplotlib   
 Anchor-exp
